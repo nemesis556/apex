@@ -1,0 +1,6 @@
+{
+  "name": "VeriSense — AI Sensor Trust, Drift & False-Alarm Detection",
+  "description": "Track 4 Problem Statement 3: Multivariate time-series sensor fusion, drift & spike detection, dynamic sensor trust scoring, and explainable false-alarm suppression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
